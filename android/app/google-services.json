@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109804901373",
+    "project_id": "riverpod-practice-72021",
+    "storage_bucket": "riverpod-practice-72021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109804901373:android:3271b9b89d28b95d2abf94",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109804901373-mpb256rohjf25ajqhi4pnh7klch6id4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPb3wTOs4cVeYPtR1BAahQ2uhw4txAHHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109804901373-mpb256rohjf25ajqhi4pnh7klch6id4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
